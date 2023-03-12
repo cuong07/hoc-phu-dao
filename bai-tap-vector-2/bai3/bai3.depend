@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1678092187 source:d:\hocphudao\vector2\bai3\main.cpp
+	<iostream>
+	<vector>
+	<set>
+
